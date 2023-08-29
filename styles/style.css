@@ -1,0 +1,205 @@
+.header-bg{
+    display: flex;
+    background-color: rgb(248, 218, 231);
+    height: 500px;
+}
+.first-step{
+   margin-left: 40px;
+}
+.beauty-flower{
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 50px;
+    font-size: xx-large;
+    width: 370px;
+}
+.shop-btn{
+    border: none;
+    border-top-left-radius:  10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 50px;
+    width: 100px;
+    background-color: rgb(244, 70, 105);
+    margin-left: 150px;
+}
+.flower-topic{
+    
+    text-align: center;
+    width: 500px;
+}
+.featured{
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 55px;
+    margin-bottom: 95px;
+    height: 50px;
+    width: 650px;
+}
+.featured-flower{
+    font-size: xx-large;
+    
+}
+.first-flower{
+    width: 50%;
+    height: 800px;
+    margin-left: 200px;
+}
+.second-step {
+   
+    background-color: rgb(240, 165, 112);
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    padding : 50px;
+    height: 350px;
+    width: 300px ;
+    margin-left:50px;
+   
+    
+}
+.third-flower{
+    background-color: rgb(168, 218, 234);
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    padding : 50px;
+    height: 350px;
+    width: 300px ;
+    margin-left:50px;
+   
+
+}
+.four-flower{
+    background-color: rgb(248, 193, 244);
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    padding : 50px;
+    height: 350px;
+    width: 300px ;
+    margin-left:50px;
+}
+#oval-shape {
+    display: flex;
+    width: 1440px;
+    height: 605px;
+
+}
+.third-poster{
+    display: flex;
+    background-color: rgb(245, 224, 224);
+    margin-bottom: 70px;
+}
+.sale{
+    font-size:xx-large ;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.sale-present{
+    margin-left: 150px;
+    width: 800px;
+}
+.singup-btn{
+    border: none;
+    border-top-left-radius:  10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 50px;
+    width: 100px;
+    background-color: rgb(221, 117, 138);
+    margin-top: 80px;
+    margin-left: 550px;
+}
+.fourth-poster{
+    text-align: center;
+    margin-left: 400px;
+    margin-bottom: 60px;
+    width: 700px;
+}
+.fr-flowers{
+    position: relative;
+    
+    margin-left: 200px;
+    margin-bottom: 60px;
+    
+}
+.fifth-poster{
+   position: relative;
+   text-align: center;
+   margin-left: 10px;
+
+}
+.deal{
+    position: absolute;
+    top: 20%;
+    left: 45%;
+}
+.label-search{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    
+    width: 400px;
+    
+   
+
+    
+}
+.button{
+    position: absolute;
+    top: 50%;
+    left: 72%;
+    border: none;
+    border-top-left-radius:  10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 50px;
+    width: 100px;
+    background-color: crimson;
+    
+}
+#border{
+    padding-left: 15px;
+    border: none;
+    border-top-left-radius:  10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 50px;
+}
+.quantity{
+    display: flex;
+    
+}
+.minimum{
+    margin-right: 100px;}
+.submit-btn{
+    position: absolute;
+    top: 110%;
+    left: 42%;
+    
+    
+       
+    }
+   
+    
+
+
+.footer{
+    height: 300px;
+    background-color: black;
+    
+}
+
+.white-text{
+    position: relative;
+    top: 30%;
+    left: 30%;
+    text-align: center;
+    font-family: 'Gill Sans';
+    font-size: x-large;
+    width: 700px;
+    
+    
+}
